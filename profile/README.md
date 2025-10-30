@@ -38,7 +38,7 @@ The platform is currently under **closed access** — you can request early regi
 It is targeted for **public release in early 2026**.
 
 <p align="center">
-  <img src="/Users/alexr.atrio/.github/profile/EVE_chat.png" width="900" alt="EVE Chat Platform Preview">
+  <img src="./EVE_chat.png" width="900" alt="EVE Chat Platform Preview">
 </p>
 
 
