@@ -16,7 +16,6 @@ An open science initiative funded by the **European Space Agency’s Φ-lab**, d
 </tr>
 </table>
 
----
 
 ## Overview  
 
@@ -31,7 +30,6 @@ It provides expert assistance across tasks such as:
 
 The project unites **data curation, model development, evaluation, and deployment** to deliver open, reusable tools for Europe’s EO ecosystem.
 
----
 
 ## Chat Platform  
 
@@ -43,7 +41,6 @@ It is targeted for **public release in early 2026**.
   <img src="/Users/alexr.atrio/.github/profile/EVE_chat.png" width="900" alt="EVE Chat Platform Preview">
 </p>
 
----
 
 ## Model Development  
 
@@ -52,14 +49,12 @@ It is targeted for **public release in early 2026**.
 - Training was carried out using **EuroHPC Marenostrum**, cloud environments, and **Mistral infrastructure**.  
 - Evaluation targets both **general domain** and **EO-specific** benchmarks.
 
----
 
 ## Licence  
 
 All EVE releases follow **ESA and EU open-science principles**, promoting transparency, reproducibility, and European AI sovereignty.  
 The project’s outputs—**models, datasets, pipelines, and documentation**—are shared under **permissive open-source licences** (Apache 2.0 / CC-BY).
 
----
 
 ## Main Links  
 
@@ -71,8 +66,6 @@ The project’s outputs—**models, datasets, pipelines, and documentation**—a
 
 - 💻 **Codebase (Work in Progress)** — [github.com/eve-esa](https://github.com/eve-esa)  
   Open-source tools, pipelines, and scripts developed within the EVE initiative.
-
----
 
 ## Contributors  
 
