@@ -75,7 +75,3 @@ The project’s outputs—**models, datasets, pipelines, and documentation**—a
   <a href="https://mistral.ai/" target="_blank">Mistral AI</a> ·
   <a href="https://philab.esa.int/" target="_blank">European Space Agency (Φ-lab)</a>
 </p>
-
-<p align="center">
-  <img src="./OFFICIAL_EVE_Avatar.png" width="180" alt="EVE Logo">
-</p>
